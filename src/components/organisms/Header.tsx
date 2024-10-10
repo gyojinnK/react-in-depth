@@ -1,5 +1,5 @@
 import { cm } from "../../util/cm";
-import GyojinAvatar from "../molecules/gyojinAvatar";
+import GyojinAvatar from "../molecules/GyojinAvatar";
 import NavBar from "../molecules/NavBar";
 
 const Header = ({ className }: { className?: string }) => {
