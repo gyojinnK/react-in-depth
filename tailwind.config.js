@@ -28,7 +28,7 @@ export default {
         jsTxColor: ["#323330"],
         reactBgColor: ["#61DBFB"],
         reactTxColor: ["#FDFDFD"],
-        nextBgColor: ["#05427c"],
+        nextBgColor: ["#4A1985"],
         nextTxColor: ["#FDFDFD"],
         etcBgColor: ["#FDFDFD"],
         etcTxColor: ["#323330"],
