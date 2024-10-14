@@ -7,7 +7,7 @@ const Header = ({ className }: { className?: string }) => {
     <header className={cm("relative text-white ", className)}>
       <div className="absolute top-0 right-0 w-full py-inner flex justify-between items-center">
         <GyojinAvatar />
-        <NavBar className="">
+        <NavBar>
           <NavBar.Item routePath="/js">Javascript</NavBar.Item>
           <NavBar.Item routePath="/react">React.js</NavBar.Item>
           <NavBar.Item routePath="/next">Next.js</NavBar.Item>

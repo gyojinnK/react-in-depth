@@ -1,7 +1,13 @@
-import Home from "../templates/Home";
+import Category from "../templates/Category";
+import Main from "../templates/Main";
 
 const HomePage = () => {
-  return <Home />;
+  return (
+    <div>
+      <Main />
+      <Category />
+    </div>
+  );
 };
 
 export default HomePage;

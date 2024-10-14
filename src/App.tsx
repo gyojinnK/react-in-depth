@@ -4,7 +4,7 @@ import Container from "./components/atoms/Container";
 
 function App() {
   return (
-    <div className="relative">
+    <div>
       <Container>
         <Header />
       </Container>

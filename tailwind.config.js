@@ -22,6 +22,17 @@ export default {
         label2: ["1.4rem", { lineHeight: "2.1rem" }],
         label3: ["1.2rem", { lineHeight: "1.8rem" }],
       },
+      colors: {
+        background: ["#100d28"],
+        jsBgColor: ["#F0DB4F"],
+        jsTxColor: ["#323330"],
+        reactBgColor: ["#61DBFB"],
+        reactTxColor: ["#FDFDFD"],
+        nextBgColor: ["#05427c"],
+        nextTxColor: ["#FDFDFD"],
+        etcBgColor: ["#FDFDFD"],
+        etcTxColor: ["#323330"],
+      },
       textColor: {
         primary: ["rgba(74,9,121,1)"],
       },
